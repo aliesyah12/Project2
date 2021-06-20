@@ -1,4 +1,4 @@
-﻿Imports MySql.Data.MySqlClient
+﻿
 Public Class Customer
     Public Sub ReadDataFromDB()
         Dim retrieveTable As New DataTable
