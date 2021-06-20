@@ -38,9 +38,8 @@ Partial Class AdminOrder
         Me.txtName.Location = New System.Drawing.Point(190, 119)
         Me.txtName.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtName.Name = "txtName"
-        Me.txtName.Size = New System.Drawing.Size(71, 25)
+        Me.txtName.Size = New System.Drawing.Size(0, 25)
         Me.txtName.TabIndex = 0
-        Me.txtName.Text = "Label1"
         '
         'txtItem
         '
@@ -48,9 +47,8 @@ Partial Class AdminOrder
         Me.txtItem.Location = New System.Drawing.Point(195, 192)
         Me.txtItem.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtItem.Name = "txtItem"
-        Me.txtItem.Size = New System.Drawing.Size(71, 25)
+        Me.txtItem.Size = New System.Drawing.Size(0, 25)
         Me.txtItem.TabIndex = 1
-        Me.txtItem.Text = "Label2"
         '
         'txtPrice
         '
@@ -58,9 +56,8 @@ Partial Class AdminOrder
         Me.txtPrice.Location = New System.Drawing.Point(195, 261)
         Me.txtPrice.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.txtPrice.Name = "txtPrice"
-        Me.txtPrice.Size = New System.Drawing.Size(71, 25)
+        Me.txtPrice.Size = New System.Drawing.Size(0, 25)
         Me.txtPrice.TabIndex = 2
-        Me.txtPrice.Text = "Label3"
         '
         'Label4
         '
