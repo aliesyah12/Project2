@@ -16,6 +16,7 @@
                 txtItems.Clear()
                 txtPrice.Clear()
                 Me.Hide()
+                Customer.Show()
             End If
 
         End If

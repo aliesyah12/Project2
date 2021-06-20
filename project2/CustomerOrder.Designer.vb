@@ -136,7 +136,7 @@ Partial Class CustomerOrder
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Name = "CustomerOrder"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "CustomerOrder"
+        Me.Text = "Order"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
